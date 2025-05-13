@@ -2,4 +2,4 @@
 
 Link to Lab 6 Starter
 
-[link to starter](https://dahossou.github.io/Lab6_Starter/)
+[lab 6](https://dahossou.github.io/Lab6_Starter/)
